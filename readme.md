@@ -16,7 +16,7 @@ O projeto cobre os seguintes tópicos:
 
 ## Desafio
 
-Um dos desafios deste projeto consiste em implementar os domain events quando um customer é criado e quando o endereço for at
+Um dos desafios deste projeto consiste em implementar os domain events quando um customer é criado e quando o endereço for atualizado.
 
 ## Autor
 

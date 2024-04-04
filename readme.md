@@ -12,10 +12,11 @@ O projeto cobre os seguintes tópicos:
 - **Testes Unitários:** Implementação de testes para garantir o funcionamento correto das funcionalidades.
 - **Services:** Implementação de serviços que executam operações complexas no domínio.
 - **Repositórios:** Abstração para acesso a dados, permitindo o armazenamento e recuperação de entidades.
+- **Domain Events:** Eventos que representam acontecimentos relevantes dentro do domínio e podem desencadear ações em outros componentes do sistema.
 
 ## Desafio
 
-Um dos desafios deste projeto é completar os testes unitários da classe `OrderRepository`. Estes testes são cruciais para garantir que a funcionalidade de persistência de pedidos esteja corretamente implementada.
+Um dos desafios deste projeto consiste em implementar os domain events quando um customer é criado e quando o endereço for at
 
 ## Autor
 
